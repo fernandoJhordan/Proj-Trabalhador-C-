@@ -1,0 +1,14 @@
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\bin\Debug\net7.0\ProjetoTrabalhador.exe
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\bin\Debug\net7.0\ProjetoTrabalhador.deps.json
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\bin\Debug\net7.0\ProjetoTrabalhador.runtimeconfig.json
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\bin\Debug\net7.0\ProjetoTrabalhador.dll
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\bin\Debug\net7.0\ProjetoTrabalhador.pdb
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\obj\Debug\net7.0\ProjetoTrabalhador.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\obj\Debug\net7.0\ProjetoTrabalhador.AssemblyInfoInputs.cache
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\obj\Debug\net7.0\ProjetoTrabalhador.AssemblyInfo.cs
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\obj\Debug\net7.0\ProjetoTrabalhador.csproj.CoreCompileInputs.cache
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\obj\Debug\net7.0\ProjetoTrabalhador.dll
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\obj\Debug\net7.0\refint\ProjetoTrabalhador.dll
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\obj\Debug\net7.0\ProjetoTrabalhador.pdb
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\obj\Debug\net7.0\ProjetoTrabalhador.genruntimeconfig.cache
+D:\C#\Projetos\ProjetoTrabalhador\ProjetoTrabalhador\obj\Debug\net7.0\ref\ProjetoTrabalhador.dll
